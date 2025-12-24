@@ -1,6 +1,6 @@
 # Fractal Generator
 
-A high-performance fractal generator built with Python that uses CUDA acceleration to create stunning Mandelbrot and Julia set visualizations.
+A high-performance fractal generator built with Python that uses CUDA acceleration to create stunning Mandelbrot and Julia set visualizations, featuring an interactive and user-friendly GUI.
 
 ## Features
 
